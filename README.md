@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LukaRatzlaff
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning the java programming language
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects, servers, etc.
-- 📫 How to reach me: lukafalztar@gmail.com
+- 📫 How to reach me: lukaelielratzlaff@gmail.com
 
 <!---
 LukaRatzlaff/LukaRatzlaff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
